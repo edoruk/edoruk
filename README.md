@@ -9,11 +9,11 @@
         <div align="center">
             <p style="font-weight:400; font-size: 2.5rem;">B.Sc. Mechatronics Engineering</p>
             <br>
-            <p style="font-weight:100; font-size: 2.5rem;">**M.Sc. Robotics Engineering (Not finished yet)**</p>
+            <p style="font-weight:100; font-size: 2.5rem;">M.Sc. Robotics Engineering (Not finished yet)</p>
             <br>
             <p style="font-weight:400; font-size: 2.5rem;">Front End Web Developer</p>
             <br>
-            <p style="font-weight:100; font-size: 2.5rem;">**Passionate about blockchain development...**</p>
+            <p style="font-weight:100; font-size: 2.5rem;">Passionate about blockchain development...</p>
             <br>
         </div>
     <div>
