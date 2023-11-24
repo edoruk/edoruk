@@ -17,10 +17,10 @@
     </div>
     <div >
         <div align="left">
-            <p style="font-weight:400; font-size: 2rem;">B.Sc. Mechatronics Engineering</p>   
-            <p style="font-weight:100; font-size: 2rem;">M.Sc. Robotics Engineering (Not finished yet)</p>
-            <p style="font-weight:400; font-size: 2rem;">Front End Web Developer</p>
-            <p style="font-weight:100; font-size: 2rem;">Passionate about blockchain environment and development</p>
+            <p style="font-weight:400; font-size: 2rem;">&nbsp;&nbsp;&nbsp;B.Sc. Mechatronics Engineering</p>   
+            <p style="font-weight:100; font-size: 2rem;">&nbsp;&nbsp;&nbsp;M.Sc. Robotics Engineering (Not finished yet)</p>
+            <p style="font-weight:400; font-size: 2rem;">&nbsp;&nbsp;&nbsp;Front End Web Developer</p>
+            <p style="font-weight:100; font-size: 2rem;">&nbsp;&nbsp;&nbsp;Passionate about blockchain environment and development</p>
         </div>
     
   </div>
