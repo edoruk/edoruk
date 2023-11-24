@@ -7,13 +7,13 @@
 <div id="contents" align="center"> 
     <div >
         <div align="center">
-            <font size=6 style="font-weight:400">B.Sc. Mechatronics Engineering</font>
+            <font size=6 style="font-weight:400;">B.Sc. Mechatronics Engineering</font>
             <br>
-            <font size=6 style="font-weight:100">M.Sc. Robotics Engineering (Not finished yet)</font>
+            <font size=6 style="font-weight:100;">M.Sc. Robotics Engineering (Not finished yet)</font>
             <br>
-            <font size=6 style="font-weight:400">Front End Web Developer</font>
+            <font size=6 style="font-weight:400;">Front End Web Developer</font>
             <br>
-            <font size=6 style="font-weight:100">Passionate about blockchain development...</font>
+            <font size=6 style="font-weight:100;">Passionate about blockchain development...</font>
             <br>
         </div>
     <div>
