@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=100&size=62&duration=3000&pause=1000&color=A383F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=180&lines=Hi+there%2C+;I'm+a+Full+Stack+Blockchain+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=100&size=62&duration=3000&pause=1000&color=A383F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=220&lines=Hi+there%2C+;I'm+a+Full+Stack+Blockchain+Developer" alt="Typing SVG" />
 </div>
 <br><br>
 <br><br>
@@ -7,13 +7,13 @@
 <div id="contents" align="center"> 
     <div >
         <div align="center">
-            <font size=6 style="font-weight:400;">B.Sc. Mechatronics Engineering</font>
+            <p style="font-weight:400; font-size: 2.5rem;">B.Sc. Mechatronics Engineering</p>
             <br>
-            <font size=6 style="font-weight:100;">M.Sc. Robotics Engineering (Not finished yet)</font>
+            <p style="font-weight:100; font-size: 2.5rem;">M.Sc. Robotics Engineering (Not finished yet)</p>
             <br>
-            <font size=6 style="font-weight:400;">Front End Web Developer</font>
+            <p style="font-weight:400; font-size: 2.5rem;">Front End Web Developer</p>
             <br>
-            <font size=6 style="font-weight:100;">Passionate about blockchain development...</font>
+            <p style="font-weight:100; font-size: 2.5rem;">Passionate about blockchain development...</p>
             <br>
         </div>
     <div>
