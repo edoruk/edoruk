@@ -5,10 +5,10 @@
 <div id="contents" align="end" style=" "> 
 <div>
     <a href="mailto:egedoruksayin@gmail.com">
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/gmail-new.png" alt="gmail-new"/>
+<img width="40" height="40" src="https://img.icons8.com/nolan/64/gmail-new.png" alt="gmail-new"/>
   </a>
   <a href="http://www.linkedin.com/in/ege-doruk-sayın-772212169" target="_blank">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/>
+    <img width="40" height="40" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/>
   </a>
     </div>
     <div >
